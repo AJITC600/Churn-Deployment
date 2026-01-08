@@ -1,0 +1,6 @@
+churn-deployment/
+│
+├── app_n.py
+├── churn_pipeline.pkl
+├── requirements.txt
+└── README.md
