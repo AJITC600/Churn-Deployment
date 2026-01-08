@@ -1,6 +1,8 @@
-Churn-Deployment
-|___ Customer_Churn_Predict.ipynb
+Churn-Deployment/
+├── notebooks/
+    └── Customer_Churn_Model.ipynb
 ├── app_n.py
 ├── churn_pipeline.pkl
 ├── requirements.txt
-└── README.md
+├── README.md
+└── .gitignore
