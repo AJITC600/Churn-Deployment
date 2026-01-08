@@ -1,3 +1,4 @@
-Customer Churn Prediction App
+Customer Churn Prediction
 
-Gradio-based deployment of an XGBoost customer churn prediction model.
+End-to-end ML project using XGBoost to predict customer churn.
+Includes data preprocessing, model training, and Gradio deployment.
