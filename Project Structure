@@ -1,4 +1,4 @@
-churn-deployment/
+Churn-Deployment
 |___ Customer_Churn_Predict.ipynb
 ├── app_n.py
 ├── churn_pipeline.pkl
